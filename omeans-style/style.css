@@ -45,3 +45,6 @@ color:white !important;
   color: #e47909 !important;
   background-color: transparent !important;
 }
+.flex-right{
+    margin-left: auto;
+}
