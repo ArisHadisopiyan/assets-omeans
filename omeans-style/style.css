@@ -55,3 +55,10 @@ color:#e47909 !important;
 .z-1 {
   z-index: 1 !important;
 }
+.ytp-chrome-top,.ytp-watermark{
+    display: none !important;
+}
+.html5-video-player{
+    width: 100% !important;
+    height: 405px !important;
+}
