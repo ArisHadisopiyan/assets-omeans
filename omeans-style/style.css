@@ -20,6 +20,10 @@ color: white !important;
 color:white !important;
 }
 
+.c-white a{
+color:#e47909 !important;
+}
+
 .btn-outline-omeans {
   color: #e47909 !important;
   border-color: #e47909 !important;
