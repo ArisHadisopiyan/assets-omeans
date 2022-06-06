@@ -52,3 +52,6 @@ color:#e47909 !important;
 .flex-right{
     margin-left: auto;
 }
+.z-1 {
+  z-index: 1 !important;
+}
